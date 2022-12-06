@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container h1{
+    font-size: 30px;
+    font-family: monospace;
+}
+.container input{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.container input:hover{
+    background-color: antiquewhite;
+    color: white;
+}
+.container #butt{
+    border: 5px solid;
+    font-family: monospace;
+    cursor: pointer;
+    padding: 20px;
+    margin: 20px;
+    background: none;
+}
+.container #butt:hover{
+    background-color: aqua;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+.top{
+    background-color: black;
+    padding: 30px;
+}
+.top h1{
+    color: white;
+    font-size: 45px;
+    font-family: monospace;
+}
